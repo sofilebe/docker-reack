@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         learn react
+         Learn docker and kubernetes by sofi
         </a>
       </header>
     </div>
